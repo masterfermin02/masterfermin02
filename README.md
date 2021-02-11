@@ -1,6 +1,6 @@
 <!--<p align="center"> <img src="https://avatars.githubusercontent.com/u/4625540?s=200&v=4" alt="gravatar" /> </p>-->
 <h1 align="center">Hi, I'm Fermin Perdomo</h1>
-<h3 align="center">⚡ Senior Developer ⚡</h3>
+<h3 align="center">⚡ Senior Software Developer ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterfermin02" alt="masterfermin02" /> </p>
 
