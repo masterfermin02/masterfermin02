@@ -12,6 +12,7 @@
 
 # Download my game from android store
 [play store](https://play.google.com/store/apps/details?id=com.FPEntertainment.sword_man_horde&hl=en_US&gl=US)
-![Sword Man horde](https://www.youtube.com/embed/ItPdmI7JrGo)
+
+[![Sword Man horde](https://img.youtube.com/vi/ItPdmI7JrGo/0.jpg)](http://www.youtube.com/watch?v=ItPdmI7JrGo)
 
 <p ><img src="https://github-readme-stats.vercel.app/api?username=masterfermin02&show_icons=true&theme=vue-dark" alt="masterfermin02" /></p>
