@@ -10,4 +10,10 @@
 - **Instagram:** <a href="https://instagram.com/masterfermin02">@masterfermin02</a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fermin-perdomo-89b24a13a/">Fermin Perdomo</a>
 
+# Download my game from android store
+[play store](https://play.google.com/store/apps/details?id=com.FPEntertainment.sword_man_horde&hl=en_US&gl=US)
+
+Sword Man horde:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ItPdmI7JrGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p ><img src="https://github-readme-stats.vercel.app/api?username=masterfermin02&show_icons=true&theme=vue-dark" alt="masterfermin02" /></p>
