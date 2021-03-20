@@ -11,7 +11,7 @@
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fermin-perdomo-89b24a13a/">Fermin Perdomo</a>
 
 # Download my game from android store
-[play store](https://play.google.com/store/apps/details?id=com.FPEntertainment.sword_man_horde&hl=en_US&gl=US)
+[Play Store](https://play.google.com/store/apps/details?id=com.FPEntertainment.sword_man_horde&hl=en_US&gl=US)
 
 [![Sword Man horde](https://img.youtube.com/vi/ItPdmI7JrGo/0.jpg)](http://www.youtube.com/watch?v=ItPdmI7JrGo)
 
