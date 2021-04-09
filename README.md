@@ -2,7 +2,14 @@
 <h1 >Hi, I'm Fermin Perdomo</h1>
 <h3 >⚡ Senior Software Developer ⚡</h3>
 
-- 💬 Ask me about **PHP, Javascript, Node, Unity3D, MYSQL, MongoDB, Firebase**
+- 💬 Ask me about 
+  - **PHP**
+  - **Javascript**
+  - **Node** 
+  - **Unity3D** 
+  - **MYSQL** 
+  - **MongoDB** 
+  - **Firebase**
 
 - 📫 How to reach me:
 - **Gmail:** **masterfermin02@gmail.com** 
