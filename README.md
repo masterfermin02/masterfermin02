@@ -5,7 +5,7 @@
 - 💬 Ask me about 
   - **PHP**
   - **Javascript**
-  - **Node** 
+  - **NodeJS** 
   - **Unity3D** 
   - **MYSQL** 
   - **MongoDB** 
