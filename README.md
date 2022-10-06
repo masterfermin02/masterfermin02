@@ -22,4 +22,4 @@
 
 [![Sword Man horde](https://img.youtube.com/vi/ItPdmI7JrGo/0.jpg)](http://www.youtube.com/watch?v=ItPdmI7JrGo)
 
-<p ><img src="https://github-readme-stats.vercel.app/api?username=masterfermin02&show_icons=true&theme=vue-dark" alt="masterfermin02" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api?username=masterfermin02&show_icons=true&theme=vue-blue" alt="masterfermin02" /></p>
