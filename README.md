@@ -71,5 +71,5 @@ Senior Software Developer
 ### Install my game from android store
 [Play Store](https://play.google.com/store/apps/details?id=com.FPEntertainment.sword_man_horde&hl=en_US&gl=US)
 
-[![Sword Man horde](https://img.youtube.com/vi/ItPdmI7JrGo/1.jpg)](http://www.youtube.com/watch?v=ItPdmI7JrGo)
+[![Sword Man horde](https://img.youtube.com/vi/ItPdmI7JrGo/0.jpg)](http://www.youtube.com/watch?v=ItPdmI7JrGo)
 
