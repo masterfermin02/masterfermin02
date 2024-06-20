@@ -1,6 +1,6 @@
 <!--<p align="center"> <img src="https://avatars.githubusercontent.com/u/4625540?s=200&v=4" alt="gravatar" /> </p>-->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fermin Perdomo
+Hi My name is Fermin Perdomo
 ======================================================================================================================================
 
 Senior Software Developer
